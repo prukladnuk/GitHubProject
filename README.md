@@ -1,1 +1,1 @@
-Not My First GitHub Project!
+Merge conflict resolved!
