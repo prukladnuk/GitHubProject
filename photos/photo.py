@@ -1,0 +1,1 @@
+input("Enter your photo dimensions:")
